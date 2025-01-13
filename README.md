@@ -3,3 +3,5 @@
 Repositorio para narrar los hechos de la liga de wot blitz
 
 Esto es parte del curso de Udemy
+
+## Curso de Jack Calavera en Wot blitz
