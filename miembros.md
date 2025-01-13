@@ -3,6 +3,8 @@
 * Jack Calavera
 * Nyx
 * Interrogación
+* El memin
+* Shaellcol
 
 # Villanos
 
