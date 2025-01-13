@@ -2,4 +2,4 @@
 
 Repositorio para narrar los hechos de la liga de wot blitz
 
-# Nyx
+Esto es parte del curso de Udemy
